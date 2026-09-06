@@ -34,9 +34,9 @@ Step 3: csvfile-convert.py     # コード表をもとに値を読みやすい�
 
 | ファイル | サイズ | ダウンロード |
 |---------|--------|-------------|
-| `honhyo_2019.csv` | 66.5 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/data/honhyo_2019.csv) |
-| `honhyo_2020.csv` | 54.0 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/data/honhyo_2020.csv) |
-| `honhyo_2021.csv` | 53.3 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/data/honhyo_2021.csv) |
+| `honhyo_2019.csv` | 66.5 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/data/honhyo_2019.csv) |
+| `honhyo_2020.csv` | 54.0 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/data/honhyo_2020.csv) |
+| `honhyo_2021.csv` | 53.3 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/data/honhyo_2021.csv) |
 
 ### 実行
 
@@ -62,7 +62,7 @@ Step 1 の出力ファイル（`honhyo_2019-2021.csv`）を使用します。
 
 | ファイル | サイズ | ダウンロード |
 |---------|--------|-------------|
-| `honhyo_2019-2021.csv` | 173.8 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021.csv) |
+| `honhyo_2019-2021.csv` | 173.8 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2021.csv) |
 
 ### 実行
 
@@ -88,7 +88,7 @@ Step 2 の出力ファイル（`honhyo_2019-2021_to-degree.csv`）とコード�
 
 | ファイル | サイズ | ダウンロード |
 |---------|--------|-------------|
-| `honhyo_2019-2021_to-degree.csv` | 207.4 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_to-degree.csv) |
+| `honhyo_2019-2021_to-degree.csv` | 207.4 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2021_to-degree.csv) |
 
 > コード表の「車両の衝突部位」は [Code for FUKUI](https://github.com/code4fukui/traffic-accident) が作成したコード値表を使用しています。
 
@@ -104,7 +104,7 @@ python csvfile-convert.py
 
 | 形式 | ファイル | サイズ | ダウンロード |
 |------|---------|--------|-------------|
-| CSV | `honhyo_2019-2021_convert_v2.csv` | 722.4 MB | [ダウンロード](https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_convert_v2.csv) |
+| CSV | `honhyo_2019-2021_convert_v2.csv` | 722.4 MB | [ダウンロード](https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2021_convert_v2.csv) |
 
 ---
 
